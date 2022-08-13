@@ -1,0 +1,8 @@
+Debug/
+Build/
+Game/
+.kdev4
+.vscode
+build
+sfml_engine.kdev4
+wren/bin
